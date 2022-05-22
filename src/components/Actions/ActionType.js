@@ -1,0 +1,1 @@
+export const Fetch_Response = 'FETCH_RESPONSE'
